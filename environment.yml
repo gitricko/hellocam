@@ -1,0 +1,3 @@
+name: hellocam
+dependencies:
+  - python=3.5
